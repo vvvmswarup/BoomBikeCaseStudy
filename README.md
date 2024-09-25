@@ -1,4 +1,4 @@
-# Project Name
+# Boom Bike  Case Study
 > Outline a brief description of your project.
 
 
